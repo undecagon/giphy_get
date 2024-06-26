@@ -24,11 +24,11 @@ class RoLocalizations extends GiphyGetUILocalizationLabels {
 
   const RoLocalizations({
     this.searchInputLabel = 'Căutare GIPHY',
-    this.emojisLabel = 'Emoji-uri',
-    this.gifsLabel = 'GIF-uri',
-    this.stickersLabel = 'Autocolante',
-    this.moreBy = 'Mai multe de la:',
-    this.viewOnGiphy = 'Vizualizați pe GIPHY',
+    this.emojisLabel = 'Emojis',
+    this.gifsLabel = 'GIFs',
+    this.stickersLabel = 'Stickers',
+    this.moreBy = 'Mai mult prin:',
+    this.viewOnGiphy = 'Vizualizare pe GIPHY',
     this.poweredByGiphy = 'Powered by GIPHY',
   });
 }
